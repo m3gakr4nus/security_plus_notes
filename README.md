@@ -10,5 +10,5 @@
 ## Resources
 
 - [Professor Messer (YouTube)](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
-
+- [Practice Test (ExamCompass)](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests)
 
