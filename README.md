@@ -10,5 +10,6 @@
 ## Resources
 
 - [Professor Messer (YouTube)](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
+- [CompTIA Security+ Get Certified Get Ahead](https://www.amazon.com/CompTIA-Security-Get-Certified-Ahead/dp/B0CMZC4YRR)
 - [Practice Test (ExamCompass)](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests)
 
